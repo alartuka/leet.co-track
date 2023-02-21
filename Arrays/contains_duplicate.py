@@ -10,5 +10,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        
         return not(len(nums) == len(set(nums)))
