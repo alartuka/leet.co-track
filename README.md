@@ -1,4 +1,4 @@
-# leet.co-track
+# Leet.co-Track
 LeetCode Notebook - to track my answers to some LeetCode Questions [in progress]
 
 ## Arrays
