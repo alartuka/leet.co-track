@@ -2,7 +2,7 @@
 
 class Solution:
     def romanToInt(self, s: str) -> int:
-        # Dictioinary to define the integers of Roman numeral 
+        ## Dictionary to hold the integer representations of the Roman numeral 
         rm = {
             "I": 1,
             "V": 5,
