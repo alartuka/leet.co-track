@@ -1,10 +1,7 @@
 # Link to problem: https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1
 
-#User function Template for python3
 class Solution:
-
 	def count(self,arr, n, x):
-		# code here
 		count = 0
 		for i in arr:
 		    if i == x:
