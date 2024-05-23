@@ -22,8 +22,8 @@ class Solution:
             if rm[bw[i]] >= rm[prev]:
                 total += rm[bw[i]]
             else: # cases of IV/IX/XL/XC/CD/CM; 
-                # since s is processed from the back => the prev will always be the larger one for these cases; hence bw[i] is subtracted from total to give the integer it represents
-                # e.g (bw[i] = "I" and prev = "V" => bw[i] < prev; prev was already added to total => bw[i] is subtracted from total, rep. 4)
+                ## since s is processed from the back => the prev will always be the larger one for these cases; hence bw[i] is subtracted from total to give the integer it represents
+                ## e.g (bw[i] = "I" and prev = "V" => bw[i] < prev; prev was already added to total => bw[i] is subtracted from total, rep. 4)
                 total -= rm[bw[i]]
 
             prev = bw[i]
