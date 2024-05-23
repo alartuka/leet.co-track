@@ -10,5 +10,6 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [in progress]
 
 ## Strings
 - [Valid Palindrome](https://github.com/alartuka/leet.co-track/valid_palindrome.py)
+- [Roman to Integer](https://github.com/alartuka/leet.co-track/roman_to_integer.py)
 
 
