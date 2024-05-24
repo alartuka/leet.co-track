@@ -1,5 +1,5 @@
 # Leet.co-Track
-LeetCode Notebook - to track my answers to some LeetCode Questions [in progress]
+LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 
 ## Arrays
 - [Contains Duplicates](https://github.com/alartuka/leet.co-track/blob/main/Arrays/contains_duplicate.py)
