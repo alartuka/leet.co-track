@@ -9,11 +9,21 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [in progress]
 - [Two Sum](https://github.com/alartuka/leet.co-track/blob/main/Arrays/two_sum.py)
 - [Majority Element](https://github.com/alartuka/leet.co-track/blob/main/Arrays/majority_element.py)
 
-
 ## Strings
 - [Valid Palindrome](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_palindrome.py)
 - [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
+- [Valid Anagram](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_anagram.py)
+- [Word Pattern](https://github.com/alartuka/leet.co-track/blob/main/Strings/word_pattern.py)
 
 ## Other
 - [Happy Number](https://github.com/alartuka/leet.co-track/blob/main/Other/happy_number.py)
+
+## HashTables
+- [Contains Duplicates](https://github.com/alartuka/leet.co-track/blob/main/Arrays/contains_duplicate.py)
+- [Two Sum](https://github.com/alartuka/leet.co-track/blob/main/Arrays/two_sum.py)
+- [Majority Element](https://github.com/alartuka/leet.co-track/blob/main/Arrays/majority_element.py)
+- [Valid Anagram](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_anagram.py)
+- [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
+- [Word Pattern](https://github.com/alartuka/leet.co-track/blob/main/Strings/word_pattern.py)
+
 
