@@ -14,6 +14,8 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 - [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
 - [Valid Anagram](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_anagram.py)
 - [Word Pattern](https://github.com/alartuka/leet.co-track/blob/main/Strings/word_pattern.py)
+- [Ransom Note](https://github.com/alartuka/leet.co-track/blob/main/Strings/ransom_note.py)
+
 
 ## Other
 - [Happy Number](https://github.com/alartuka/leet.co-track/blob/main/Other/happy_number.py)
@@ -25,5 +27,7 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 - [Valid Anagram](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_anagram.py)
 - [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
 - [Word Pattern](https://github.com/alartuka/leet.co-track/blob/main/Strings/word_pattern.py)
+- [Ransom Note](https://github.com/alartuka/leet.co-track/blob/main/Strings/ransom_note.py)
+
 
 
