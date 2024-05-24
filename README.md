@@ -8,6 +8,8 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 - [Running Sum of 1D-Array](https://github.com/alartuka/leet.co-track/blob/main/Arrays/running_sum_of_1d_array.py)
 - [Two Sum](https://github.com/alartuka/leet.co-track/blob/main/Arrays/two_sum.py)
 - [Majority Element](https://github.com/alartuka/leet.co-track/blob/main/Arrays/majority_element.py)
+- [Remove Duplicates from Sorted Array](https://github.com/alartuka/leet.co-track/blob/main/Arrays/remove_duplicates_from_sorted_array.py)
+- [Summary Ranges](https://github.com/alartuka/leet.co-track/blob/main/Arrays/summary_ranges.py)
 
 ## Strings
 - [Valid Palindrome](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_palindrome.py)
@@ -17,8 +19,9 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 - [Ransom Note](https://github.com/alartuka/leet.co-track/blob/main/Strings/ransom_note.py)
 
 
-## Other
+## Two Pointers
 - [Happy Number](https://github.com/alartuka/leet.co-track/blob/main/Other/happy_number.py)
+- [Remove Duplicates from Sorted Array](https://github.com/alartuka/leet.co-track/blob/main/Arrays/remove_duplicates_from_sorted_array.py)
 
 ## HashTables
 - [Contains Duplicates](https://github.com/alartuka/leet.co-track/blob/main/Arrays/contains_duplicate.py)
