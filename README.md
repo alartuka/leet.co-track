@@ -15,5 +15,5 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [in progress]
 - [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
 
 ## Other
-- [Happy Number](https://github.com/alartuka/leet.co-track/blob/main/happy_number.py)
+- [Happy Number](https://github.com/alartuka/leet.co-track/blob/main/Other/happy_number.py)
 
