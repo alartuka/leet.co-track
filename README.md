@@ -17,11 +17,12 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 - [Valid Anagram](https://github.com/alartuka/leet.co-track/blob/main/Strings/valid_anagram.py)
 - [Word Pattern](https://github.com/alartuka/leet.co-track/blob/main/Strings/word_pattern.py)
 - [Ransom Note](https://github.com/alartuka/leet.co-track/blob/main/Strings/ransom_note.py)
-
+- [Find_The_Index_of_The First Occurrence in a String](https://github.com/alartuka/leet.co-track/blob/main/Strings/find_the_index_of_the_1st_occurrence_in_a_string.py)
 
 ## Two Pointers
 - [Happy Number](https://github.com/alartuka/leet.co-track/blob/main/Other/happy_number.py)
 - [Remove Duplicates from Sorted Array](https://github.com/alartuka/leet.co-track/blob/main/Arrays/remove_duplicates_from_sorted_array.py)
+- [Find_The_Index_of_The First Occurrence in a String](https://github.com/alartuka/leet.co-track/blob/main/Strings/find_the_index_of_the_1st_occurrence_in_a_string.py)
 
 ## HashTables
 - [Contains Duplicates](https://github.com/alartuka/leet.co-track/blob/main/Arrays/contains_duplicate.py)
