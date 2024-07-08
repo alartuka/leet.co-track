@@ -33,10 +33,15 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 - [Word Pattern](https://github.com/alartuka/leet.co-track/blob/main/Strings/word_pattern.py)
 - [Ransom Note](https://github.com/alartuka/leet.co-track/blob/main/Strings/ransom_note.py)
 
+## Linked Lists
+- [Add Two Numbers](https://github.com/alartuka/leet.co-track/blob/main/LinkedLists/add_two_numbers.py)
+
 ## Math
 - [Palindrome Number](https://github.com/alartuka/leet.co-track/blob/main/Other/palindrome_number.py)
 - [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
 - [Reverse Integer](https://github.com/alartuka/leet.co-track/blob/main/Other/reverse_integer.py)
+- 
+
 
 
 
