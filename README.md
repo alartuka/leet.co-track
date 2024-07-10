@@ -1,5 +1,5 @@
 # Leet.co-Track
-LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
+LeetCode Notebook - to track my answers to some LeetCode Questions [ongoing]
 
 ## Arrays
 - [Contains Duplicates](https://github.com/alartuka/leet.co-track/blob/main/Arrays/contains_duplicate.py)
@@ -35,7 +35,8 @@ LeetCode Notebook - to track my answers to some LeetCode Questions [on going]
 
 ## Linked Lists
 - [Add Two Numbers](https://github.com/alartuka/leet.co-track/blob/main/LinkedLists/add_two_numbers.py)
-
+- [Linked List Cycles](https://github.com/alartuka/leet.co-track/blob/main/LinkedLists/linked_list_cycle.py)
+  
 ## Math
 - [Palindrome Number](https://github.com/alartuka/leet.co-track/blob/main/Other/palindrome_number.py)
 - [Roman to Integer](https://github.com/alartuka/leet.co-track/blob/main/Strings/roman_to_integer.py)
